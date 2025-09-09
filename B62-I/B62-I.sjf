@@ -117,7 +117,7 @@
   {
     "Id": "253",
     "Name": "ChildDevice1Secondary",
-    "Value": "8000"
+    "Value": "0400"
   },
   {
     "Id": "253",
@@ -127,12 +127,12 @@
   {
     "Id": "253",
     "Name": "ChildDevice2Secondary",
-    "Value": "0400"
+    "Value": "4000"
   },
   {
     "Id": "253",
     "Name": "ChildDevice3Primary",
-    "Value": "0800"
+    "Value": "0400"
   },
   {
     "Id": "253",
@@ -147,52 +147,52 @@
   {
     "Id": "253",
     "Name": "ChildDevice4Secondary",
-    "Value": "2000"
+    "Value": "0000"
   },
   {
     "Id": "253",
     "Name": "ChildDevice5Primary",
-    "Value": "0800"
+    "Value": "0400"
   },
   {
     "Id": "253",
     "Name": "ChildDevice5Secondary",
-    "Value": "1000"
+    "Value": "0000"
   },
   {
     "Id": "253",
     "Name": "ChildDevice6Primary",
-    "Value": "0800"
+    "Value": "4000"
   },
   {
     "Id": "253",
     "Name": "ChildDevice6Secondary",
-    "Value": "0200"
+    "Value": "0000"
   },
   {
     "Id": "253",
     "Name": "ChildDevice7Primary",
-    "Value": "0800"
+    "Value": "0000"
   },
   {
     "Id": "253",
     "Name": "ChildDevice7Secondary",
-    "Value": "0100"
+    "Value": "0000"
   },
   {
     "Id": "253",
     "Name": "ChildDevice8Primary",
-    "Value": "0800"
+    "Value": "0000"
   },
   {
     "Id": "253",
     "Name": "ChildDevice8Secondary",
-    "Value": "0001"
+    "Value": "0000"
   },
   {
     "Id": "253",
     "Name": "ChildDevice9Primary",
-    "Value": "0800"
+    "Value": "0000"
   },
   {
     "Id": "253",
@@ -202,7 +202,7 @@
   {
     "Id": "253",
     "Name": "ChildDevice10Primary",
-    "Value": "0400"
+    "Value": "0000"
   },
   {
     "Id": "253",
@@ -212,7 +212,7 @@
   {
     "Id": "253",
     "Name": "ChildDevice11Primary",
-    "Value": "4000"
+    "Value": "0000"
   },
   {
     "Id": "253",
@@ -222,7 +222,7 @@
   {
     "Id": "253",
     "Name": "ChildDevice12Primary",
-    "Value": "2000"
+    "Value": "0000"
   },
   {
     "Id": "253",
@@ -232,7 +232,7 @@
   {
     "Id": "253",
     "Name": "ChildDevice13Primary",
-    "Value": "1000"
+    "Value": "0000"
   },
   {
     "Id": "253",
@@ -242,7 +242,7 @@
   {
     "Id": "253",
     "Name": "ChildDevice14Primary",
-    "Value": "0200"
+    "Value": "0000"
   },
   {
     "Id": "253",
@@ -252,7 +252,7 @@
   {
     "Id": "253",
     "Name": "ChildDevice15Primary",
-    "Value": "0100"
+    "Value": "0000"
   },
   {
     "Id": "253",
@@ -262,7 +262,7 @@
   {
     "Id": "253",
     "Name": "ChildDevice16Primary",
-    "Value": "0001"
+    "Value": "0000"
   },
   {
     "Id": "253",
@@ -732,7 +732,7 @@
   {
     "Id": "2",
     "Name": "Int_EFP3_Type",
-    "Value": "d660"
+    "Value": "0000"
   },
   {
     "Id": "2",
@@ -1042,12 +1042,12 @@
   {
     "Id": "2",
     "Name": "EFP4_DP_Alt_Mode_OverTypeC_Enabled",
-    "Value": "01"
+    "Value": "00"
   },
   {
     "Id": "2",
     "Name": "EFP4_Thunderbolt_Feature_Enabled",
-    "Value": "01"
+    "Value": "00"
   },
   {
     "Id": "2",
@@ -1212,12 +1212,12 @@
   {
     "Id": "2",
     "Name": "EFP5_DP_Alt_Mode_OverTypeC_Enabled",
-    "Value": "01"
+    "Value": "00"
   },
   {
     "Id": "2",
     "Name": "EFP5_Thunderbolt_Feature_Enabled",
-    "Value": "01"
+    "Value": "00"
   },
   {
     "Id": "2",
@@ -1592,7 +1592,7 @@
   {
     "Id": "9",
     "Name": "PSR_IdleFrames2Wait_01",
-    "Value": "00"
+    "Value": "01"
   },
   {
     "Id": "9",
@@ -1622,7 +1622,7 @@
   {
     "Id": "9",
     "Name": "PSR_IdleFrames2Wait_02",
-    "Value": "00"
+    "Value": "01"
   },
   {
     "Id": "9",
@@ -1652,7 +1652,7 @@
   {
     "Id": "9",
     "Name": "PSR_IdleFrames2Wait_03",
-    "Value": "00"
+    "Value": "01"
   },
   {
     "Id": "9",
@@ -1682,7 +1682,7 @@
   {
     "Id": "9",
     "Name": "PSR_IdleFrames2Wait_04",
-    "Value": "00"
+    "Value": "01"
   },
   {
     "Id": "9",
@@ -1712,7 +1712,7 @@
   {
     "Id": "9",
     "Name": "PSR_IdleFrames2Wait_05",
-    "Value": "00"
+    "Value": "01"
   },
   {
     "Id": "9",
@@ -1742,7 +1742,7 @@
   {
     "Id": "9",
     "Name": "PSR_IdleFrames2Wait_06",
-    "Value": "00"
+    "Value": "01"
   },
   {
     "Id": "9",
@@ -1772,7 +1772,7 @@
   {
     "Id": "9",
     "Name": "PSR_IdleFrames2Wait_07",
-    "Value": "00"
+    "Value": "01"
   },
   {
     "Id": "9",
@@ -1802,7 +1802,7 @@
   {
     "Id": "9",
     "Name": "PSR_IdleFrames2Wait_08",
-    "Value": "00"
+    "Value": "01"
   },
   {
     "Id": "9",
@@ -1832,7 +1832,7 @@
   {
     "Id": "9",
     "Name": "PSR_IdleFrames2Wait_09",
-    "Value": "00"
+    "Value": "01"
   },
   {
     "Id": "9",
@@ -1862,7 +1862,7 @@
   {
     "Id": "9",
     "Name": "PSR_IdleFrames2Wait_10",
-    "Value": "00"
+    "Value": "01"
   },
   {
     "Id": "9",
@@ -1892,7 +1892,7 @@
   {
     "Id": "9",
     "Name": "PSR_IdleFrames2Wait_11",
-    "Value": "00"
+    "Value": "01"
   },
   {
     "Id": "9",
@@ -1922,7 +1922,7 @@
   {
     "Id": "9",
     "Name": "PSR_IdleFrames2Wait_12",
-    "Value": "00"
+    "Value": "01"
   },
   {
     "Id": "9",
@@ -1952,7 +1952,7 @@
   {
     "Id": "9",
     "Name": "PSR_IdleFrames2Wait_13",
-    "Value": "00"
+    "Value": "01"
   },
   {
     "Id": "9",
@@ -1982,7 +1982,7 @@
   {
     "Id": "9",
     "Name": "PSR_IdleFrames2Wait_14",
-    "Value": "00"
+    "Value": "01"
   },
   {
     "Id": "9",
@@ -2012,7 +2012,7 @@
   {
     "Id": "9",
     "Name": "PSR_IdleFrames2Wait_15",
-    "Value": "00"
+    "Value": "01"
   },
   {
     "Id": "9",
@@ -2042,7 +2042,7 @@
   {
     "Id": "9",
     "Name": "PSR_IdleFrames2Wait_16",
-    "Value": "00"
+    "Value": "01"
   },
   {
     "Id": "9",
@@ -2062,82 +2062,82 @@
   {
     "Id": "9",
     "Name": "PSR2_TP_2_3_4_WaitTime_01",
-    "Value": "02"
+    "Value": "03"
   },
   {
     "Id": "9",
     "Name": "PSR2_TP_2_3_4_WaitTime_02",
-    "Value": "02"
+    "Value": "03"
   },
   {
     "Id": "9",
     "Name": "PSR2_TP_2_3_4_WaitTime_03",
-    "Value": "02"
+    "Value": "03"
   },
   {
     "Id": "9",
     "Name": "PSR2_TP_2_3_4_WaitTime_04",
-    "Value": "02"
+    "Value": "03"
   },
   {
     "Id": "9",
     "Name": "PSR2_TP_2_3_4_WaitTime_05",
-    "Value": "02"
+    "Value": "03"
   },
   {
     "Id": "9",
     "Name": "PSR2_TP_2_3_4_WaitTime_06",
-    "Value": "02"
+    "Value": "03"
   },
   {
     "Id": "9",
     "Name": "PSR2_TP_2_3_4_WaitTime_07",
-    "Value": "02"
+    "Value": "03"
   },
   {
     "Id": "9",
     "Name": "PSR2_TP_2_3_4_WaitTime_08",
-    "Value": "02"
+    "Value": "03"
   },
   {
     "Id": "9",
     "Name": "PSR2_TP_2_3_4_WaitTime_09",
-    "Value": "02"
+    "Value": "03"
   },
   {
     "Id": "9",
     "Name": "PSR2_TP_2_3_4_WaitTime_10",
-    "Value": "02"
+    "Value": "03"
   },
   {
     "Id": "9",
     "Name": "PSR2_TP_2_3_4_WaitTime_11",
-    "Value": "02"
+    "Value": "03"
   },
   {
     "Id": "9",
     "Name": "PSR2_TP_2_3_4_WaitTime_12",
-    "Value": "02"
+    "Value": "03"
   },
   {
     "Id": "9",
     "Name": "PSR2_TP_2_3_4_WaitTime_13",
-    "Value": "02"
+    "Value": "03"
   },
   {
     "Id": "9",
     "Name": "PSR2_TP_2_3_4_WaitTime_14",
-    "Value": "02"
+    "Value": "03"
   },
   {
     "Id": "9",
     "Name": "PSR2_TP_2_3_4_WaitTime_15",
-    "Value": "02"
+    "Value": "03"
   },
   {
     "Id": "9",
     "Name": "PSR2_TP_2_3_4_WaitTime_16",
-    "Value": "02"
+    "Value": "03"
   },
   {
     "Id": "10",
@@ -2912,7 +2912,7 @@
   {
     "Id": "27",
     "Name": "eDP_Panel_Color_Depth_03",
-    "Value": "00"
+    "Value": "01"
   },
   {
     "Id": "27",
@@ -7002,7 +7002,7 @@
   {
     "Id": "43",
     "Name": "Post_Brightness_03",
-    "Value": "ff00"
+    "Value": "6400"
   },
   {
     "Id": "43",
@@ -7082,7 +7082,7 @@
   {
     "Id": "43",
     "Name": "Post_Min_Brightness_03",
-    "Value": "0600"
+    "Value": "0000"
   },
   {
     "Id": "43",
@@ -7407,7 +7407,7 @@
   {
     "Id": "44",
     "Name": "PSR_Enable_03",
-    "Value": "00"
+    "Value": "01"
   },
   {
     "Id": "44",
@@ -7957,7 +7957,7 @@
   {
     "Id": "44",
     "Name": "DPST_Aggressiveness_Profile_01",
-    "Value": "06"
+    "Value": "02"
   },
   {
     "Id": "44",
@@ -7967,7 +7967,7 @@
   {
     "Id": "44",
     "Name": "DPST_Aggressiveness_Profile_02",
-    "Value": "06"
+    "Value": "02"
   },
   {
     "Id": "44",
@@ -7977,7 +7977,7 @@
   {
     "Id": "44",
     "Name": "DPST_Aggressiveness_Profile_03",
-    "Value": "06"
+    "Value": "02"
   },
   {
     "Id": "44",
@@ -7987,7 +7987,7 @@
   {
     "Id": "44",
     "Name": "DPST_Aggressiveness_Profile_04",
-    "Value": "06"
+    "Value": "02"
   },
   {
     "Id": "44",
@@ -7997,7 +7997,7 @@
   {
     "Id": "44",
     "Name": "DPST_Aggressiveness_Profile_05",
-    "Value": "06"
+    "Value": "02"
   },
   {
     "Id": "44",
@@ -8007,7 +8007,7 @@
   {
     "Id": "44",
     "Name": "DPST_Aggressiveness_Profile_06",
-    "Value": "06"
+    "Value": "02"
   },
   {
     "Id": "44",
@@ -8017,7 +8017,7 @@
   {
     "Id": "44",
     "Name": "DPST_Aggressiveness_Profile_07",
-    "Value": "06"
+    "Value": "02"
   },
   {
     "Id": "44",
@@ -8027,7 +8027,7 @@
   {
     "Id": "44",
     "Name": "DPST_Aggressiveness_Profile_08",
-    "Value": "06"
+    "Value": "02"
   },
   {
     "Id": "44",
@@ -8037,7 +8037,7 @@
   {
     "Id": "44",
     "Name": "DPST_Aggressiveness_Profile_09",
-    "Value": "06"
+    "Value": "02"
   },
   {
     "Id": "44",
@@ -8047,7 +8047,7 @@
   {
     "Id": "44",
     "Name": "DPST_Aggressiveness_Profile_10",
-    "Value": "06"
+    "Value": "02"
   },
   {
     "Id": "44",
@@ -8057,7 +8057,7 @@
   {
     "Id": "44",
     "Name": "DPST_Aggressiveness_Profile_11",
-    "Value": "06"
+    "Value": "02"
   },
   {
     "Id": "44",
@@ -8067,7 +8067,7 @@
   {
     "Id": "44",
     "Name": "DPST_Aggressiveness_Profile_12",
-    "Value": "06"
+    "Value": "02"
   },
   {
     "Id": "44",
@@ -8077,7 +8077,7 @@
   {
     "Id": "44",
     "Name": "DPST_Aggressiveness_Profile_13",
-    "Value": "06"
+    "Value": "02"
   },
   {
     "Id": "44",
@@ -8087,7 +8087,7 @@
   {
     "Id": "44",
     "Name": "DPST_Aggressiveness_Profile_14",
-    "Value": "06"
+    "Value": "02"
   },
   {
     "Id": "44",
@@ -8097,7 +8097,7 @@
   {
     "Id": "44",
     "Name": "DPST_Aggressiveness_Profile_15",
-    "Value": "06"
+    "Value": "02"
   },
   {
     "Id": "44",
@@ -8107,7 +8107,7 @@
   {
     "Id": "44",
     "Name": "DPST_Aggressiveness_Profile_16",
-    "Value": "06"
+    "Value": "02"
   },
   {
     "Id": "44",

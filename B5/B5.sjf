@@ -101,11 +101,6 @@
   },
   {
     "Id": "1",
-    "Name": "Type_C_HPD_Retry_Timeout",
-    "Value": "00"
-  },
-  {
-    "Id": "1",
     "Name": "AfcStartUpBitsConfigType",
     "Value": "00"
   },
@@ -132,47 +127,47 @@
   {
     "Id": "253",
     "Name": "ChildDevice3Primary",
-    "Value": "0800"
+    "Value": "0400"
   },
   {
     "Id": "253",
     "Name": "ChildDevice3Secondary",
-    "Value": "2000"
+    "Value": "4000"
   },
   {
     "Id": "253",
     "Name": "ChildDevice4Primary",
-    "Value": "0400"
+    "Value": "0800"
   },
   {
     "Id": "253",
     "Name": "ChildDevice4Secondary",
-    "Value": "4000"
+    "Value": "0000"
   },
   {
     "Id": "253",
     "Name": "ChildDevice5Primary",
-    "Value": "4000"
-  },
-  {
-    "Id": "253",
-    "Name": "ChildDevice5Secondary",
-    "Value": "2000"
-  },
-  {
-    "Id": "253",
-    "Name": "ChildDevice6Primary",
     "Value": "0400"
   },
   {
     "Id": "253",
+    "Name": "ChildDevice5Secondary",
+    "Value": "0000"
+  },
+  {
+    "Id": "253",
+    "Name": "ChildDevice6Primary",
+    "Value": "4000"
+  },
+  {
+    "Id": "253",
     "Name": "ChildDevice6Secondary",
-    "Value": "2000"
+    "Value": "0000"
   },
   {
     "Id": "253",
     "Name": "ChildDevice7Primary",
-    "Value": "0800"
+    "Value": "0000"
   },
   {
     "Id": "253",
@@ -182,7 +177,7 @@
   {
     "Id": "253",
     "Name": "ChildDevice8Primary",
-    "Value": "0400"
+    "Value": "0000"
   },
   {
     "Id": "253",
@@ -192,7 +187,7 @@
   {
     "Id": "253",
     "Name": "ChildDevice9Primary",
-    "Value": "4000"
+    "Value": "0000"
   },
   {
     "Id": "253",
@@ -202,7 +197,7 @@
   {
     "Id": "253",
     "Name": "ChildDevice10Primary",
-    "Value": "2000"
+    "Value": "0000"
   },
   {
     "Id": "253",
@@ -272,7 +267,7 @@
   {
     "Id": "2",
     "Name": "size_ChildStruc",
-    "Value": "28"
+    "Value": "27"
   },
   {
     "Id": "2",
@@ -461,11 +456,6 @@
   },
   {
     "Id": "2",
-    "Name": "EFP1_External_Compression_Enable",
-    "Value": "00"
-  },
-  {
-    "Id": "2",
     "Name": "EFP1_Compression_Struct_Index ",
     "Value": "00"
   },
@@ -631,11 +621,6 @@
   },
   {
     "Id": "2",
-    "Name": "EFP2_External_Compression_Enable",
-    "Value": "00"
-  },
-  {
-    "Id": "2",
     "Name": "EFP2_Compression_Struct_Index ",
     "Value": "00"
   },
@@ -652,12 +637,12 @@
   {
     "Id": "2",
     "Name": "Int_EFP2_Port",
-    "Value": "0d"
+    "Value": "09"
   },
   {
     "Id": "2",
     "Name": "Int_EFP2_DDC_Pin",
-    "Value": "03"
+    "Value": "00"
   },
   {
     "Id": "2",
@@ -697,7 +682,7 @@
   {
     "Id": "2",
     "Name": "Int_EFP2_AUX_Channel",
-    "Value": "60"
+    "Value": "30"
   },
   {
     "Id": "2",
@@ -732,7 +717,7 @@
   {
     "Id": "2",
     "Name": "Int_EFP3_Type",
-    "Value": "d660"
+    "Value": "0000"
   },
   {
     "Id": "2",
@@ -801,11 +786,6 @@
   },
   {
     "Id": "2",
-    "Name": "EFP3_External_Compression_Enable",
-    "Value": "00"
-  },
-  {
-    "Id": "2",
     "Name": "EFP3_Compression_Struct_Index ",
     "Value": "00"
   },
@@ -822,12 +802,12 @@
   {
     "Id": "2",
     "Name": "Int_EFP3_Port",
-    "Value": "0f"
+    "Value": "0b"
   },
   {
     "Id": "2",
     "Name": "Int_EFP3_DDC_Pin",
-    "Value": "04"
+    "Value": "00"
   },
   {
     "Id": "2",
@@ -867,7 +847,7 @@
   {
     "Id": "2",
     "Name": "Int_EFP3_AUX_Channel",
-    "Value": "70"
+    "Value": "50"
   },
   {
     "Id": "2",
@@ -971,11 +951,6 @@
   },
   {
     "Id": "2",
-    "Name": "EFP4_External_Compression_Enable",
-    "Value": "00"
-  },
-  {
-    "Id": "2",
     "Name": "EFP4_Compression_Struct_Index ",
     "Value": "00"
   },
@@ -992,12 +967,12 @@
   {
     "Id": "2",
     "Name": "Int_EFP4_Port",
-    "Value": "11"
+    "Value": "0b"
   },
   {
     "Id": "2",
     "Name": "Int_EFP4_DDC_Pin",
-    "Value": "05"
+    "Value": "00"
   },
   {
     "Id": "2",
@@ -1037,17 +1012,17 @@
   {
     "Id": "2",
     "Name": "Int_EFP4_AUX_Channel",
-    "Value": "80"
+    "Value": "50"
   },
   {
     "Id": "2",
     "Name": "EFP4_DP_Alt_Mode_OverTypeC_Enabled",
-    "Value": "00"
+    "Value": "01"
   },
   {
     "Id": "2",
     "Name": "EFP4_Thunderbolt_Feature_Enabled",
-    "Value": "00"
+    "Value": "01"
   },
   {
     "Id": "2",
@@ -1141,11 +1116,6 @@
   },
   {
     "Id": "2",
-    "Name": "EFP5_External_Compression_Enable",
-    "Value": "00"
-  },
-  {
-    "Id": "2",
     "Name": "EFP5_Compression_Struct_Index ",
     "Value": "00"
   },
@@ -1162,12 +1132,12 @@
   {
     "Id": "2",
     "Name": "Int_EFP5_Port",
-    "Value": "13"
+    "Value": "0d"
   },
   {
     "Id": "2",
     "Name": "Int_EFP5_DDC_Pin",
-    "Value": "06"
+    "Value": "00"
   },
   {
     "Id": "2",
@@ -1207,17 +1177,17 @@
   {
     "Id": "2",
     "Name": "Int_EFP5_AUX_Channel",
-    "Value": "90"
+    "Value": "60"
   },
   {
     "Id": "2",
     "Name": "EFP5_DP_Alt_Mode_OverTypeC_Enabled",
-    "Value": "00"
+    "Value": "01"
   },
   {
     "Id": "2",
     "Name": "EFP5_Thunderbolt_Feature_Enabled",
-    "Value": "00"
+    "Value": "01"
   },
   {
     "Id": "2",
@@ -1311,11 +1281,6 @@
   },
   {
     "Id": "2",
-    "Name": "EFP6_External_Compression_Enable",
-    "Value": "00"
-  },
-  {
-    "Id": "2",
     "Name": "EFP6_Compression_Struct_Index ",
     "Value": "00"
   },
@@ -1332,7 +1297,7 @@
   {
     "Id": "2",
     "Name": "Int_EFP6_Port",
-    "Value": "00"
+    "Value": "0f"
   },
   {
     "Id": "2",
@@ -1478,11 +1443,6 @@
     "Id": "2",
     "Name": "EFP7_LTTPRNonTransparentMode",
     "Value": "01"
-  },
-  {
-    "Id": "2",
-    "Name": "EFP7_External_Compression_Enable",
-    "Value": "00"
   },
   {
     "Id": "2",
@@ -2072,7 +2032,7 @@
   {
     "Id": "9",
     "Name": "PSR2_TP_2_3_4_WaitTime_03",
-    "Value": "03"
+    "Value": "02"
   },
   {
     "Id": "9",
@@ -2227,11 +2187,6 @@
   {
     "Id": "12",
     "Name": "SDVO_Device_Power_Down",
-    "Value": "00"
-  },
-  {
-    "Id": "12",
-    "Name": "DisplayShift_Enabled",
     "Value": "00"
   },
   {
@@ -4660,86 +4615,6 @@
     "Value": "0000"
   },
   {
-    "Id": "27",
-    "Name": "eDP_DSC_Feature_01",
-    "Value": "00"
-  },
-  {
-    "Id": "27",
-    "Name": "eDP_DSC_Feature_02",
-    "Value": "00"
-  },
-  {
-    "Id": "27",
-    "Name": "eDP_DSC_Feature_03",
-    "Value": "00"
-  },
-  {
-    "Id": "27",
-    "Name": "eDP_DSC_Feature_04",
-    "Value": "00"
-  },
-  {
-    "Id": "27",
-    "Name": "eDP_DSC_Feature_05",
-    "Value": "00"
-  },
-  {
-    "Id": "27",
-    "Name": "eDP_DSC_Feature_06",
-    "Value": "00"
-  },
-  {
-    "Id": "27",
-    "Name": "eDP_DSC_Feature_07",
-    "Value": "00"
-  },
-  {
-    "Id": "27",
-    "Name": "eDP_DSC_Feature_08",
-    "Value": "00"
-  },
-  {
-    "Id": "27",
-    "Name": "eDP_DSC_Feature_09",
-    "Value": "00"
-  },
-  {
-    "Id": "27",
-    "Name": "eDP_DSC_Feature_10",
-    "Value": "00"
-  },
-  {
-    "Id": "27",
-    "Name": "eDP_DSC_Feature_11",
-    "Value": "00"
-  },
-  {
-    "Id": "27",
-    "Name": "eDP_DSC_Feature_12",
-    "Value": "00"
-  },
-  {
-    "Id": "27",
-    "Name": "eDP_DSC_Feature_13",
-    "Value": "00"
-  },
-  {
-    "Id": "27",
-    "Name": "eDP_DSC_Feature_14",
-    "Value": "00"
-  },
-  {
-    "Id": "27",
-    "Name": "eDP_DSC_Feature_15",
-    "Value": "00"
-  },
-  {
-    "Id": "27",
-    "Name": "eDP_DSC_Feature_16",
-    "Value": "00"
-  },
-  {
     "Id": "40",
     "Name": "bmp_Panel_type",
     "Value": "02"
@@ -5232,12 +5107,12 @@
   {
     "Id": "42",
     "Name": "Panel_Width_01",
-    "Value": "8002"
+    "Value": "8007"
   },
   {
     "Id": "42",
     "Name": "Panel_Height_01",
-    "Value": "e001"
+    "Value": "3804"
   },
   {
     "Id": "42",
@@ -10042,12 +9917,12 @@
   {
     "Id": "51",
     "Name": "X_res",
-    "Value": "80070000"
+    "Value": "00000000"
   },
   {
     "Id": "51",
     "Name": "Y_res",
-    "Value": "b0040000"
+    "Value": "00000000"
   },
   {
     "Id": "52",
@@ -12476,12 +12351,12 @@
   },
   {
     "Id": "57",
-    "Name": "DklPhyVswingHbr",
+    "Name": "DklPhyVswingHBR",
     "Value": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
   },
   {
     "Id": "57",
-    "Name": "DklPhyVswingHbr2",
+    "Name": "DklPhyVswingHBR3",
     "Value": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
   },
   {

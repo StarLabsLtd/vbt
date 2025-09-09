@@ -117,57 +117,57 @@
   {
     "Id": "253",
     "Name": "ChildDevice1Secondary",
-    "Value": "0000"
+    "Value": "0400"
   },
   {
     "Id": "253",
     "Name": "ChildDevice2Primary",
-    "Value": "0400"
+    "Value": "0800"
   },
   {
     "Id": "253",
     "Name": "ChildDevice2Secondary",
-    "Value": "0000"
+    "Value": "4000"
   },
   {
     "Id": "253",
     "Name": "ChildDevice3Primary",
-    "Value": "4000"
+    "Value": "0800"
   },
   {
     "Id": "253",
     "Name": "ChildDevice3Secondary",
-    "Value": "0000"
-  },
-  {
-    "Id": "253",
-    "Name": "ChildDevice4Primary",
     "Value": "2000"
   },
   {
     "Id": "253",
-    "Name": "ChildDevice4Secondary",
-    "Value": "0000"
-  },
-  {
-    "Id": "253",
-    "Name": "ChildDevice5Primary",
-    "Value": "0800"
-  },
-  {
-    "Id": "253",
-    "Name": "ChildDevice5Secondary",
+    "Name": "ChildDevice4Primary",
     "Value": "0400"
   },
   {
     "Id": "253",
+    "Name": "ChildDevice4Secondary",
+    "Value": "4000"
+  },
+  {
+    "Id": "253",
+    "Name": "ChildDevice5Primary",
+    "Value": "4000"
+  },
+  {
+    "Id": "253",
+    "Name": "ChildDevice5Secondary",
+    "Value": "2000"
+  },
+  {
+    "Id": "253",
     "Name": "ChildDevice6Primary",
-    "Value": "0800"
+    "Value": "0400"
   },
   {
     "Id": "253",
     "Name": "ChildDevice6Secondary",
-    "Value": "4000"
+    "Value": "2000"
   },
   {
     "Id": "253",
@@ -177,7 +177,7 @@
   {
     "Id": "253",
     "Name": "ChildDevice7Secondary",
-    "Value": "2000"
+    "Value": "0000"
   },
   {
     "Id": "253",
@@ -187,7 +187,7 @@
   {
     "Id": "253",
     "Name": "ChildDevice8Secondary",
-    "Value": "4000"
+    "Value": "0000"
   },
   {
     "Id": "253",
@@ -197,12 +197,12 @@
   {
     "Id": "253",
     "Name": "ChildDevice9Secondary",
-    "Value": "2000"
+    "Value": "0000"
   },
   {
     "Id": "253",
     "Name": "ChildDevice10Primary",
-    "Value": "0000"
+    "Value": "2000"
   },
   {
     "Id": "253",
@@ -337,7 +337,7 @@
   {
     "Id": "2",
     "Name": "LFP2_Device_Class",
-    "Value": "0618"
+    "Value": "0000"
   },
   {
     "Id": "2",
@@ -1042,12 +1042,12 @@
   {
     "Id": "2",
     "Name": "EFP4_DP_Alt_Mode_OverTypeC_Enabled",
-    "Value": "01"
+    "Value": "00"
   },
   {
     "Id": "2",
     "Name": "EFP4_Thunderbolt_Feature_Enabled",
-    "Value": "01"
+    "Value": "00"
   },
   {
     "Id": "2",
@@ -1212,12 +1212,12 @@
   {
     "Id": "2",
     "Name": "EFP5_DP_Alt_Mode_OverTypeC_Enabled",
-    "Value": "01"
+    "Value": "00"
   },
   {
     "Id": "2",
     "Name": "EFP5_Thunderbolt_Feature_Enabled",
-    "Value": "01"
+    "Value": "00"
   },
   {
     "Id": "2",
@@ -2912,7 +2912,7 @@
   {
     "Id": "27",
     "Name": "eDP_Panel_Color_Depth_03",
-    "Value": "00"
+    "Value": "01"
   },
   {
     "Id": "27",
@@ -7002,7 +7002,7 @@
   {
     "Id": "43",
     "Name": "Post_Brightness_03",
-    "Value": "ff00"
+    "Value": "6400"
   },
   {
     "Id": "43",
@@ -7082,7 +7082,7 @@
   {
     "Id": "43",
     "Name": "Post_Min_Brightness_03",
-    "Value": "0600"
+    "Value": "0000"
   },
   {
     "Id": "43",
@@ -7407,7 +7407,7 @@
   {
     "Id": "44",
     "Name": "PSR_Enable_03",
-    "Value": "00"
+    "Value": "01"
   },
   {
     "Id": "44",
@@ -7487,7 +7487,7 @@
   {
     "Id": "44",
     "Name": "DRRS_Enable_03",
-    "Value": "00"
+    "Value": "01"
   },
   {
     "Id": "44",
@@ -7727,7 +7727,7 @@
   {
     "Id": "44",
     "Name": "DMRRS_Enable_03",
-    "Value": "00"
+    "Value": "01"
   },
   {
     "Id": "44",
@@ -10277,7 +10277,7 @@
   {
     "Id": "51",
     "Name": "Feature_Enable",
-    "Value": "01"
+    "Value": "00"
   },
   {
     "Id": "51",

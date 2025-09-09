@@ -561,8 +561,13 @@
   },
   {
     "Id": "2",
+    "Name": "Int_EFP1_Panel_Index",
+    "Value": "fe"
+  },
+  {
+    "Id": "2",
     "Name": "Int_EFP2_Type",
-    "Value": "d660"
+    "Value": "c668"
   },
   {
     "Id": "2",
@@ -731,8 +736,13 @@
   },
   {
     "Id": "2",
+    "Name": "Int_EFP2_Panel_Index",
+    "Value": "fe"
+  },
+  {
+    "Id": "2",
     "Name": "Int_EFP3_Type",
-    "Value": "d660"
+    "Value": "c668"
   },
   {
     "Id": "2",
@@ -898,6 +908,11 @@
     "Id": "2",
     "Name": "Int_EFP3_DP_Port_Max_LinkRate",
     "Value": "00"
+  },
+  {
+    "Id": "2",
+    "Name": "Int_EFP3_Panel_Index",
+    "Value": "fe"
   },
   {
     "Id": "2",
@@ -1071,6 +1086,11 @@
   },
   {
     "Id": "2",
+    "Name": "Int_EFP4_Panel_Index",
+    "Value": "fe"
+  },
+  {
+    "Id": "2",
     "Name": "Int_EFP5_Type",
     "Value": "0000"
   },
@@ -1238,6 +1258,11 @@
     "Id": "2",
     "Name": "Int_EFP5_DP_Port_Max_LinkRate",
     "Value": "00"
+  },
+  {
+    "Id": "2",
+    "Name": "Int_EFP5_Panel_Index",
+    "Value": "fe"
   },
   {
     "Id": "2",
@@ -1411,6 +1436,11 @@
   },
   {
     "Id": "2",
+    "Name": "Int_EFP6_Panel_Index",
+    "Value": "fe"
+  },
+  {
+    "Id": "2",
     "Name": "Int_EFP7_Type",
     "Value": "0000"
   },
@@ -1578,6 +1608,11 @@
     "Id": "2",
     "Name": "Int_EFP7_DP_Port_Max_LinkRate",
     "Value": "00"
+  },
+  {
+    "Id": "2",
+    "Name": "Int_EFP7_Panel_Index",
+    "Value": "fe"
   },
   {
     "Id": "9",
@@ -8595,6 +8630,246 @@
     "Value": "00"
   },
   {
+    "Id": "44",
+    "Name": "APD_Enable_01",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "APD_Enable_02",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "APD_Enable_03",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "APD_Enable_04",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "APD_Enable_05",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "APD_Enable_06",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "APD_Enable_07",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "APD_Enable_08",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "APD_Enable_09",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "APD_Enable_10",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "APD_Enable_11",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "APD_Enable_12",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "APD_Enable_13",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "APD_Enable_14",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "APD_Enable_15",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "APD_Enable_16",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "PixOptix_Enable_01",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "PixOptix_Enable_02",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "PixOptix_Enable_03",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "PixOptix_Enable_04",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "PixOptix_Enable_05",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "PixOptix_Enable_06",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "PixOptix_Enable_07",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "PixOptix_Enable_08",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "PixOptix_Enable_09",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "PixOptix_Enable_10",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "PixOptix_Enable_11",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "PixOptix_Enable_12",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "PixOptix_Enable_13",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "PixOptix_Enable_14",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "PixOptix_Enable_15",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "PixOptix_Enable_16",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "APD_Aggressiveness_Profile_01",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "APD_Aggressiveness_Profile_02",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "APD_Aggressiveness_Profile_03",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "APD_Aggressiveness_Profile_04",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "APD_Aggressiveness_Profile_05",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "APD_Aggressiveness_Profile_06",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "APD_Aggressiveness_Profile_07",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "APD_Aggressiveness_Profile_08",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "APD_Aggressiveness_Profile_09",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "APD_Aggressiveness_Profile_10",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "APD_Aggressiveness_Profile_11",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "APD_Aggressiveness_Profile_12",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "APD_Aggressiveness_Profile_13",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "APD_Aggressiveness_Profile_14",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "APD_Aggressiveness_Profile_15",
+    "Value": "00"
+  },
+  {
+    "Id": "44",
+    "Name": "APD_Aggressiveness_Profile_16",
+    "Value": "00"
+  },
+  {
     "Id": "46",
     "Name": "Chromacity_Enable_01",
     "Value": "00"
@@ -10042,12 +10317,12 @@
   {
     "Id": "51",
     "Name": "X_res",
-    "Value": "80070000"
+    "Value": "00000000"
   },
   {
     "Id": "51",
     "Name": "Y_res",
-    "Value": "b0040000"
+    "Value": "00000000"
   },
   {
     "Id": "52",
