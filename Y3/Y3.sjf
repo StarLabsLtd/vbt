@@ -127,7 +127,7 @@
   {
     "Id": "253",
     "Name": "ChildDevice2Secondary",
-    "Value": "2000"
+    "Value": "0100"
   },
   {
     "Id": "253",
@@ -137,7 +137,7 @@
   {
     "Id": "253",
     "Name": "ChildDevice3Secondary",
-    "Value": "2000"
+    "Value": "0100"
   },
   {
     "Id": "253",
@@ -162,7 +162,7 @@
   {
     "Id": "253",
     "Name": "ChildDevice6Primary",
-    "Value": "2000"
+    "Value": "0100"
   },
   {
     "Id": "253",
@@ -742,7 +742,7 @@
   {
     "Id": "2",
     "Name": "Int_EFP3_Type",
-    "Value": "c668"
+    "Value": "0000"
   },
   {
     "Id": "2",
@@ -1267,7 +1267,7 @@
   {
     "Id": "2",
     "Name": "Int_EFP6_Type",
-    "Value": "0000"
+    "Value": "d660"
   },
   {
     "Id": "2",
@@ -1357,12 +1357,12 @@
   {
     "Id": "2",
     "Name": "Int_EFP6_Port",
-    "Value": "00"
+    "Value": "0a"
   },
   {
     "Id": "2",
     "Name": "Int_EFP6_DDC_Pin",
-    "Value": "00"
+    "Value": "01"
   },
   {
     "Id": "2",
@@ -1402,17 +1402,17 @@
   {
     "Id": "2",
     "Name": "Int_EFP6_AUX_Channel",
-    "Value": "70"
+    "Value": "40"
   },
   {
     "Id": "2",
     "Name": "EFP6_DP_Alt_Mode_OverTypeC_Enabled",
-    "Value": "01"
+    "Value": "00"
   },
   {
     "Id": "2",
     "Name": "EFP6_Thunderbolt_Feature_Enabled",
-    "Value": "01"
+    "Value": "00"
   },
   {
     "Id": "2",
